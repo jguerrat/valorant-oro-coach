@@ -1,5 +1,5 @@
 // =====================================================================
-//  VALORANT ORO COACH — Base de datos de estrategias
+//  VALORANT COACH — Base de datos de estrategias
 //  Puedes editar este archivo libremente para añadir/actualizar mapas,
 //  composiciones, estrategias y escenarios de entrenamiento.
 //
